@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="mapBoxWhite">#ffffff</color>
+    <color name="mapBoxBlue">#4264fb</color>
+    <color name="mapBoxGrayLight">#c6d2e1</color>
+    <color name="main_background">#0353A4</color>
+    <color name="content_background">#ECEEEB</color>
+    <color name="content_background_dark">#CACCC9</color>
+    <color name="orange">#FF9F1C</color>
+    <color name="blue">#B9D6F2</color>
+    <color name="red">#F71735</color>
+    <color name="black">#000000</color>
+    <color name="gold">#b08f26</color>
+</resources>

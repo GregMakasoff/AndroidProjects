@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/orange">
+
+    <ImageView
+        android:id="@+id/logo_view"
+        android:layout_width="900dp"
+        android:layout_height="500dp"
+        android:src="@drawable/goadventure_black_scaled" />
+
+    <Button
+        android:id="@+id/button_sign_in"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:text="@string/sign_in"/>
+
+</LinearLayout>

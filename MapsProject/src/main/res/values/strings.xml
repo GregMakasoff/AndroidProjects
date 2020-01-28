@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="go_to_maps">Open Maps</string>
+    <string name="access_token">pk.eyJ1IjoiZ3JlZ21ha2Fzb2ZmIiwiYSI6ImNrMnYwOGJxMTAwMG8zbG12ZWpma2M5cjUifQ.VvrQu-7uus2iHIPv4YtEoQ</string>
+    <string name="start_navigating">Start Navigating</string>
+    <string name="sign_in">Sign In</string>
+    <string name="profile">profile</string>
+    <string name="sign_out">sign out</string>
+    <string name="new_adventure">new adventure</string>
+    <string name="rating">Rating:</string>
+    <string name="edit">edit</string>
+    <string name="home">home</string>
+    <string name="your_adventures">Your Adventures:</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="discard">discard</string>
+    <string name="login_activity_title">goAdventure</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_edit">Edit Adventure</string>
+    <string name="title_activity_save">Save Adventure</string>
+    <string name="add">add</string>
+    <string name="save_rating">save rating</string>
+    <string name="rate_the_adventure">Rate the Adventure</string>
+</resources>

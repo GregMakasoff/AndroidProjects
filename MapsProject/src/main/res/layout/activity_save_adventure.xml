@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background"
+    android:orientation="vertical"
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginTop="16dp"
+        android:background="@color/content_background_dark"
+        android:gravity="center"
+        android:text="@string/title"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/edit_text_title_save"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/content_background" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginTop="16dp"
+        android:background="@color/content_background_dark"
+        android:gravity="center"
+        android:text="@string/description"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/edit_text_description_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/content_background"
+        android:inputType="textMultiLine"
+        android:lines="8"
+        android:maxLines="10"
+        android:minLines="6"
+        android:scrollbars="vertical" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textColor="@color/content_background" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button_save_save"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@color/orange"
+            android:text="@string/save"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/button_discard_save"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:layout_marginStart="2dp"
+            android:background="@color/blue"
+            android:text="@string/discard"
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
