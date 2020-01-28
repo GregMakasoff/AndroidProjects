@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893229416775",
+    "firebase_url": "https://hammakasoff.firebaseio.com",
+    "project_id": "hammakasoff",
+    "storage_bucket": "hammakasoff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893229416775:android:2fffc449ad0a0311088c62",
+        "android_client_info": {
+          "package_name": "ca.bcit.ham_makasoff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893229416775-1jik9867tu2uurffu75214ilhmmdtuca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.bcit.ham_makasoff",
+            "certificate_hash": "b20877b8be9b7afbd1a7a49fd6075737a228fdf7"
+          }
+        },
+        {
+          "client_id": "893229416775-2pujlv79h3ef350qfhmtnb9grci36vmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC4b2puRwC_GV0BJIdZ2jnXtOvVuhsUPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893229416775-2pujlv79h3ef350qfhmtnb9grci36vmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

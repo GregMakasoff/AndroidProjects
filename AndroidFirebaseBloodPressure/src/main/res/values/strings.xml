@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ham_Makasoff</string>
+    <string name="hintUserID">User ID</string>
+    <string name="hintSystolic">Systolic Pressure</string>
+    <string name="hintDiastolic">Diastolic Pressure</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="tvUserID">User ID: </string>
+    <string name="tvSystolic">Systolic Pressure: </string>
+    <string name="tvDiastolic">Diastolic Pressure: </string>
+    <string name="tvDate">Reading Date: </string>
+    <string name="tvTime">Reading Time: </string>
+    <string name="tvCondition">Condition: </string>
+    <string name="hcCondition">Hypertensive crisis</string>
+    <string name="warning">Hypertensive Crisis!\nConsult your doctor immediately!</string>
+</resources>
